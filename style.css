@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'MyCustomFont';
-    src: url('font/j.ttf') format('truetype');
+    src: url('j.ttf') format('truetype');
 }
 #T {
     text-align: center;
